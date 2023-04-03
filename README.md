@@ -51,8 +51,11 @@
 
 
 ## 공개 SW
-| Category | Title | Repository | 기관 |
+> :warning: **주의사항**:  이해, 추론, 표출 순으로 테이블을 작성해주시고, 각 파트별 동기화해주세요.
+
+| Category | Title | Repository | Affiliation |
 |-----|-----|-----|-----|
+| Understanding | Facial expression recognition | [Link](https://github.com/keti-iiprc/miai_facial_expression_recognition) | KETI |
 | Inference | Multi-modal Information Integration Understanding Model v1.0 | [Link](https://github.com/AIRC-KETI/VL-KE-T5) | KETI |
 | Inference | Information Recognition_verbal | [Link](https://github.com/MMC-K/Empathetic-Dialog-verbal) | KETI |
 | Inference | Empathetic Dialog_verbal | [Link](https://github.com/MMC-K/Information-Recognition-verbal) | KETI |
