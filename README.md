@@ -10,6 +10,15 @@
 | Understanding | Backchannel Prediction | [Link](https://github.com/etri/etri-miai) | ETRI |
 
 
+## 연구 논문
+> :warning: **작성 주의사항**:  최신 공개 내용을 상단으로 정렬해주세요.
+
+| Authors | Title | Publication | Affiliation | Link |
+|-----|-----|-----|-----|-----| 
+| (TBD) | (TBD) | (TBD) | (TBD) | (TBD) |
+
+
+
 
 ## Acknowledge 
 > This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No.2022-0-00608, Artificial intelligence research about multi-modal interactions for empathetic conversations with humans)
