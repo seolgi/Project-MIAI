@@ -1,4 +1,22 @@
 
+# Project MIAI 
+본 페이지는 MIAI 연구팀에서 진행 중인 멀티모달 인터랙션 인공지능 기술 연구 과제의 github 페이지입니다. 해당 페이지에서는 연구 과제의 진행 상황과 결과물을 확인하실 수 있습니다.
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [Project MIAI](#project-miai)
+  - [(1세부) 인간과 교감하는 멀티모달 인터랙션 인공지능 기술](#1세부-인간과-교감하는-멀티모달-인터랙션-인공지능-기술)
+    - [목표](#목표)
+    - [기간](#기간)
+    - [연구 기관](#연구-기관)
+  - [통합 Build 방안](#통합-build-방안)
+  - [공개 SW](#공개-sw)
+  - [연구 논문](#연구-논문)
+  - [Acknowledge](#acknowledge)
+
+<!-- /code_chunk_output -->
+
 ## (1세부) 인간과 교감하는 멀티모달 인터랙션 인공지능 기술
 ![](resources/overall.png)
 ### 목표
