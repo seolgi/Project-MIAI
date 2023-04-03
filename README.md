@@ -10,3 +10,7 @@
 | Understanding | Backchannel Prediction | [Link](https://github.com/etri/etri-miai) | ETRI |
 
 
+
+## Acknowledge 
+> This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No.2022-0-00608, Artificial intelligence research about multi-modal interactions for empathetic conversations with humans)
+
