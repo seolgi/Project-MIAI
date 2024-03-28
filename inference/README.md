@@ -1,6 +1,9 @@
 # Inference Module
 
-### Multi-modal Information Integration Understanding Model v1.0
+### Multi-modal Information Integration Understanding Model v2.0
+https://github.com/AIRC-KETI/VL-KE-T5
+
+### Multi-modal Information Integration Generation Model v1.0
 https://github.com/AIRC-KETI/VL-KE-T5
 
 ### Information Recognition_verbal
